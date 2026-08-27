@@ -348,44 +348,7 @@ Tabla de verificación contra los 12 resultados esperados fijados en la plantill
 
 ---
 
-# **5. Cuestionario**
-
-### **1. Diferencia estrategia de dirección estratégica e indica en qué momento del proceso se ubica la formulación de un PETI.**
-* **Diferencia**: La *estrategia* es el conjunto específico de elecciones y decisiones sobre dónde competir y cómo ganar para crear ventaja competitiva. La *dirección estratégica*, en cambio, es el proceso directivo global y continuo que comprende tres fases: Formulación, Implantación y Evaluación.
-* **Ubicación del PETI**: La formulación del PETI se ubica en el **Nivel Funcional** de la fase de *Formulación*, actuando como el plan táctico-estratégico que operacionaliza los objetivos del negocio mediante capacidades tecnológicas.
-
-### **2. ¿Por qué una estrategia que no renuncia a nada no es una estrategia? Ilustra con una decisión concreta de tu organización.**
-* **Fundamentación**: La esencia de la estrategia es la escasez de recursos y la necesidad de priorizar. Una estrategia que intenta abararlo todo no realiza elecciones; se convierte en una lista de deseos inconexos.
-* **Ejemplo en la Organización**: Para el periodo 2024-2026, la organización decidió **renunciar al desarrollo interno de un ERP propio desde cero**, optando en su lugar por adquirir un software SaaS estandarizado. Esta renuncia permitió concentrar el 100% del presupuesto y talento de desarrollo en la creación del *canal e-commerce y la experiencia digital del cliente*, donde reside la verdadera ventaja competitiva.
-
-### **3. Identifica la postura de TI de tu organización entre las cuatro presentadas, con dos evidencias que la sustenten, y explica qué implica para el alcance de tu plan.**
-* **Postura Identificada**: **Giro Estratégico**.
-* **Evidencias**:
-  1. *Operación actual*: Las ventas presenciales en tiendas físicas continúan funcionando con guías y comprobantes físicos ante eventuales caídas del sistema principal (postura de soporte en el presente).
-  2. *Proyectos en ejecución*: La Dirección ha aprobado la meta de que el 40% de la facturación provenga del canal online en los próximos 18 meses, lo que volverá a la infraestructura cloud y pasarelas de pago críticamente determinantes para el negocio (transición a estratégica).
-* **Implicancia para el Plan**: El PETI debe enfocarse en la **escalabilidad, modernización de arquitectura y gestión del cambio**, construyendo bases sólidas sin sobredimensionar la operación actual.
-
-### **4. La serie del BCRP muestra una depreciación del tipo de cambio. ¿Qué decisión de planeamiento obliga si el 60 % del presupuesto de TI está denominado en dólares?**
-* **Decisión que Obliga**:
-  1. *Cobertura Cambiaria (Hedging)*: Establecer acuerdos de tipo de cambio fijo o contratos a plazo (forwards) con la entidad financiera para el presupuesto plurianual.
-  2. *Renegociación de Contratos SaaS*: Exigir a los proveedores locales de software y nube la conversión de contratos a moneda nacional (Soles) o fijación de bandas de tipo de cambio.
-  3. *Revisión de Reserva de Contingencia*: Incrementar el margen de contingencia presupuestaria del portafolio del 5% al 12% para absorber la volatilidad del dólar.
-
-### **5. Explica por qué debe registrarse la URL, la fecha de descarga y el hash de cada serie utilizada.**
-* **Fundamentación**: Garantiza la **reproducibilidad, auditabilidad e integridad** del análisis. Las series estadísticas oficiales (como el PBI o el IPC) sufren frecuentes revisiones y correcciones metodológicas por parte del BCRP o INEI. Registrar la URL exacta, la fecha de consulta y el hash sha256 permite certificar ante auditores o la alta dirección el estado exacto de los datos al momento de tomar las decisiones de planeamiento.
-
-### **6. Una tendencia relevante no tiene serie estadística disponible. ¿La incluye en el plan? Fundamenta y propón cómo se monitorearía.**
-* **Fundamentación**: **No se incluye en la matriz de vigilancia oficial del PETI**. Una tendencia sin evidencia cuantitativa verificable se considera una especulación o intuición.
-* **Propuesta de Monitoreo**: Se le ubica en una *Lista de Observación Prospectiva (Watchlist)* fuera del PETI. Para monitorearla, la organización debe crear un *indicador proxy interno* (ejemplo: si no hay datos sobre la adopción de IA en competidores locales, medir la frecuencia con la que proveedores TIC ofrecen módulos con IA en sus licitaciones).
-
-### **7. Redacta el umbral de alerta de una de sus series. ¿Qué valor obligaría a revisar el PETI antes de su ciclo anual?**
-* **Serie**: Tipo de Cambio Interbancario BCRP (`PN01207PM`).
-* **Umbral de Alerta Extraordinaria**: *"Si el Tipo de Cambio interbancario supera los **S/ 4.05 por dólar estadounidense** o sufre una depreciación superior al **8.0% acumulado en un solo trimestre**, se activará una revisión extraordinaria del PETI"*.
-* **Consecuencia de la Alerta**: Pausa temporal de nuevas adquisiciones de hardware/licencias internacionales y re-evaluación del portafolio de proyectos en la Unidad III.
-
----
-
-# **6. Referencias bibliográficas**
+# **5. Referencias bibliográficas**
 
 - Banco Central de Reserva del Perú. (2024). *Series de estadísticas económicas: Tipo de cambio, IPC y PBI*. https://estadisticas.bcrp.gob.pe
 - Banco Mundial. (2023). *World Development Indicators: Technological Adoption & Economic Growth*. https://data.worldbank.org
@@ -397,9 +360,10 @@ Tabla de verificación contra los 12 resultados esperados fijados en la plantill
 
 ---
 
-# **7. Anexos**
+# **6. Anexos**
 
 - **Anexo A**: Matriz de Vigilancia Estratégica Completa (`01_marco/VS05_matriz_vigilancia.csv`).
 - **Anexo B**: Registro de Hashes SHA-256 e Integridad de Series (`evidencias/HASHES.txt`).
 - **Anexo C**: Gráficos de Contexto Macroeconómico y Tecnológico (`graficos/VS_contexto.png`).
 - **Anexo D**: Redacción Formal de la Sección 1.1 del PETI (`01_marco/1.1_contexto_tendencias.md`).
+- **Anexo E**: Repositorio en GitHub: https://github.com/KiaaraZM/peti2026
