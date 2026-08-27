@@ -15,8 +15,8 @@ SI-886 · Planeamiento Estratégico de TI
 **DOCENTE:**  
 Dr. Oscar Juan Jimenez Flores  
 
-**ESTUDIANTE / GRUPO:**  
-KiaaraZM · `kz2023077087@virtual.upt.pe`  
+**ESTUDIANTE:**  
+Kiara Holly Zapana Murillo 2023077087 
 Grupo 01 — Escuela Profesional de Ingeniería de Sistemas  
 
 **SEMESTRE ACADÉMICO:** VIII  
