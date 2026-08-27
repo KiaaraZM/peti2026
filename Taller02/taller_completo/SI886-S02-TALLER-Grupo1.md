@@ -17,7 +17,6 @@ Dr. Oscar Juan Jimenez Flores
 
 **ESTUDIANTE:**  
 Kiara Holly Zapana Murillo 2023077087 
-Grupo 01 — Escuela Profesional de Ingeniería de Sistemas  
 
 **SEMESTRE ACADÉMICO:** VIII  
 
