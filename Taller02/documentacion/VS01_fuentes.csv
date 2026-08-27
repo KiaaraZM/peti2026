@@ -1,0 +1,8 @@
+id,Fuerza del contexto,Fuente oficial,Institución,Serie o indicador,URL,Periodicidad,Última actualización
+F-01,Conectividad digital,ENAHO — Estadísticas TIC en hogares,INEI,% de hogares con acceso a internet por región,https://www.inei.gob.pe/estadisticas/indice-tematico/tecnologias-de-la-informacion-y-telecomunicaciones/,Trimestral,2024-Q1
+F-02,Volatilidad cambiaria,Series estadísticas,BCRP,Tipo de cambio interbancario promedio mensual (PN01207PM),https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01207PM/json,Diaria,2024-07
+F-03,Inflación,Series estadísticas,BCRP / INEI,Índice de precios al consumidor variación anual (PN01273PM),https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01273PM/json,Mensual,2024-07
+F-04,Penetración móvil,Indicadores del mercado,OSIPTEL,Líneas móviles por cada 100 habitantes,https://www.osiptel.gob.pe/portal-del-usuario/indicadores-del-mercado/,Trimestral,2024-Q1
+F-05,Actividad del sector,Cuentas nacionales,INEI / BCRP,PBI por sector económico variación anual (PN01770AM),https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01770AM/json,Mensual,2024-05
+F-06,Gasto público en TI,Consulta Amigable,MEF,Ejecución presupuestal en la genérica correspondiente,https://apps5.mineco.gob.pe/transparencia/mensual/,Diaria,2024-08
+F-07,Empleo en el sector,ENAHO,INEI,Población ocupada por rama de actividad,https://www.inei.gob.pe/estadisticas/indice-tematico/empleo-y-ingresos/,Trimestral,2024-Q2
